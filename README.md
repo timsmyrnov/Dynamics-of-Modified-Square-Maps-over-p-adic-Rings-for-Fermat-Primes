@@ -1,0 +1,1 @@
+# Dynamics-of-Modified-Square-Maps-over-p-adic-Rings-for-Fermat-Primes
